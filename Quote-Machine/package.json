@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "http://menma353.github.io/freecodecamp-quote-machine/",
-=======
-  "homepage": "http://menma353.github.io/fcc-quote-machine/",
->>>>>>> 0e2f1977 (first commit)
+  "homepage": "http://menma353.github.io/freecodecamp-quote-machine",
   "name": "quote-machine",
   "private": true,
   "version": "0.0.0",
