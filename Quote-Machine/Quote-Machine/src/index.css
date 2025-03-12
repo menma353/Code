@@ -1,0 +1,46 @@
+h1{
+    padding: 12px;
+}
+
+#quote-box{
+    width: fit-content;
+    text-align: center;
+    margin: 100px 0 12px;
+}
+
+
+
+.body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 12px;
+}
+
+#author{
+    margin-top: 20px;
+}
+
+
+#new-quote{
+    background-color: #D21404;
+    border: none;
+    width: fit-content;
+    align-items: center;
+    margin: 0 auto 10px;
+}
+
+#root{
+    background-color: #FAFAFA;
+    color: #4A2148
+}
+
+.control{
+    display: flex;
+
+}
+
+a {
+    font-size: 34px;
+    margin-left: 5px;
+}
